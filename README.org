@@ -4,6 +4,6 @@ image manipulation library for Common Lisp
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/tokenrove/imago.git |
-| commit  | 221ce10                                    |
+| commit  | 0f80617                                    |
 | systems | imago                                      |
 |---------+--------------------------------------------|
